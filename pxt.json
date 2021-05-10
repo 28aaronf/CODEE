@@ -1,0 +1,21 @@
+{
+    "name": "asdfghjkkksdfghjkjhgfdfghjkjhgtfrghjhgfrtyuhvcdertyujjhgfdr567uik,mnbvcder567ukmn bvcxdsert6y7uk,mnbvftyuk,mnbvfdfrtyuikmnbvfdr567ujmn bvcfdrtyhjn xsdfgn",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
